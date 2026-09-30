@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00509d&height=300&section=header&text=Juan%20Esteban%20Bustos&fontSize=65&fontAlignY=40&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=62&fontColor=ffffff&descSize=25&animation=scaleIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00509d&height=300&section=header&text=Juan%20Esteban%20Bustos&fontSize=65&fontAlignY=40&desc=Software%20Engineer%20|%20Applied%20AI%20|%20IoT%20%26%20Robotics&descAlignY=55&descAlign=62&fontColor=ffffff&descSize=25&animation=scaleIn" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3> Construyendo software escalable, optimizando arquitecturas y escribiendo código limpio. </h3>
+  <h3> Entrego código en producción, no demos. </h3>
   <p>
     <i>"Transformando problemas complejos en soluciones tecnológicas elegantes y eficientes."</i>
   </p>
@@ -14,7 +14,7 @@
     <a href="https://linkedin.com/in/tu-usuario" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:tu-correo@gmail.com">
+    <a href="mailto:bustoschilatraj@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="TU-URL-DEL-PORTAFOLIO" target="_blank">
@@ -27,30 +27,38 @@
 
 ## Perfil Ejecutivo
 
-Desarrollador de software con una sólida base en el desarrollo web moderno, arquitecturas backend y diseño de bases de datos. Gran capacidad para acortar la brecha entre los requerimientos de negocio y la implementación técnica.
+Desarrollador Full-Stack con **+15 proyectos en producción**, enfocado en la integración de arquitecturas escalables, Inteligencia Artificial y Hardware. 
 
-- **Enfoque Actual:** Profundizando en Arquitectura de Software, bases de datos relacionales y buenas prácticas de Clean Code.
-- **Educación:** Estudiante de Ingeniería de Software (Universidad Surcolombiana) & Técnico en Desarrollo de Software (SENA).
-- **Certificaciones:** Ciberseguridad (Google), Productividad con IA, Inglés MCE B+.
-- **Aprendiendo:** Sistemas distribuidos, microservicios y prácticas avanzadas de DevOps.
-- **Colaboración:** Siempre abierto a contribuir en proyectos open-source y discusiones sobre arquitectura técnica.
+- **Rol Actual:** Desarrollador Web Full-Stack en **Copycaess S.A.S** (PHP MVC, MySQL, Integraciones OAuth y Pasarelas de Pago).
+- **Stack Principal:** TypeScript, React, Node.js, Go y Python.
+- **Especialidad:** Integración de IA (LLMs, agentes, chatbots) y hardware (Arduino, ESP32, Sensores).
+- **Academia:** Estudiante de Ingeniería de Software (Universidad Surcolombiana) & Técnico en Desarrollo de Software (SENA).
+- **Investigación:** Autor principal de **3 artículos de investigación científica** en proceso de publicación para **IEEE** (*VIANova, BioSmart, EcoGuardian*).
+
+---
+
+## Logros y Reconocimientos Destacados
+
+- 🏆 **1er Lugar** — 2da Competencia Regional de Robótica (2025). Programación de robot autónomo con control PWM (ESP32).
+- 🥉 **3er Lugar** — Hackathon Universitario Regional (2025). Compitiendo contra equipos de años superiores en primer semestre.
+- 🎤 **Conferencista** — 2do Encuentro de Jóvenes e Inteligencia Artificial (2025).
+- 🥇 **Expositor** — Feria InnovaSoft, Universidad Surcolombiana (2026).
+- 📜 **Certificaciones:** Foundations of Cybersecurity (Google), Maximize Productivity With AI Tools (Google), Inglés B1/B2.
 
 ---
 
 ## Arsenal Tecnológico
 
-Selecciono la herramienta adecuada para cada trabajo, pero mi mayor dominio se encuentra en el siguiente ecosistema:
-
 <table>
   <tr>
     <td align="center" width="25%">
-      <h3>Frontend</h3>
+      <h3>Frontend & UI</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,threejs" />
       </a>
     </td>
     <td align="center" width="25%">
-      <h3>Backend</h3>
+      <h3>Backend & API</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nodejs,php,go,py" />
       </a>
@@ -58,13 +66,13 @@ Selecciono la herramienta adecuada para cada trabajo, pero mi mayor dominio se e
     <td align="center" width="25%">
       <h3>Database</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase" />
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,sqlite" />
       </a>
     </td>
     <td align="center" width="25%">
-      <h3>Tools & DevOps</h3>
+      <h3>Tools & Hardware</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux,bash" />
+        <img src="https://skillicons.dev/icons?i=git,github,linux,arduino" />
       </a>
     </td>
   </tr>
@@ -93,7 +101,7 @@ Selecciono la herramienta adecuada para cada trabajo, pero mi mayor dominio se e
 
 ---
 
-## Proyectos Destacados
+## Proyectos Destacados (Investigación & Desarrollo)
 
 <div align="center">
   <a href="https://github.com/juanitogit/AxionReality">
@@ -107,8 +115,8 @@ Selecciono la herramienta adecuada para cada trabajo, pero mi mayor dominio se e
   <a href="https://github.com/juanitogit/EcoGuardian">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=EcoGuardian&bg_color=f8fafc&title_color=0060ac&text_color=111c2d&icon_color=00509d&hide_border=true&locale=es" width="48%" />
   </a>
-  <a href="https://github.com/juanitogit/Portafolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=Portafolio&bg_color=f8fafc&title_color=0060ac&text_color=111c2d&icon_color=00509d&hide_border=true&locale=es" width="48%" />
+  <a href="https://github.com/juanitogit/VIANova">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=VIANova&bg_color=f8fafc&title_color=0060ac&text_color=111c2d&icon_color=00509d&hide_border=true&locale=es" width="48%" />
   </a>
 </div>
 
