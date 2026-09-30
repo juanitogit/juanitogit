@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0033FF&height=300&section=header&text=Juan%20Esteban%20Bustos&fontSize=70&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20|%20Applied%20AI%20|%20IoT%20and%20Robotics&descAlign=50&descAlignY=58&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=300&section=header&text=Juan%20Esteban%20Bustos&fontSize=70&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20|%20Applied%20AI%20|%20IoT%20and%20Robotics&descAlign=50&descAlignY=58&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="TU-URL-DEL-PORTAFOLIO" target="_blank">
-      <img src="https://img.shields.io/badge/Portafolio-0033FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portafolio-007BFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 </div>
@@ -86,15 +86,15 @@ Desarrollador Full-Stack con **+15 proyectos en producción**, enfocado en la in
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=juanitogit&show_icons=true&bg_color=f8fafc&title_color=0033FF&text_color=111c2d&icon_color=0033FF&hide_border=true&locale=es&count_private=true" alt="Estadísticas de Juanitogit" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=juanitogit&show_icons=true&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&count_private=true" alt="Estadísticas de Juanitogit" width="100%" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanitogit&layout=compact&bg_color=f8fafc&title_color=0033FF&text_color=111c2d&hide_border=true&locale=es" alt="Lenguajes" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanitogit&layout=compact&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&hide_border=true&locale=es" alt="Lenguajes" width="100%" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanitogit&background=f8fafc&ring=0033FF&fire=0033FF&currStreakLabel=0033FF&sideNums=111c2d&sideLabels=5a6578&dates=5a6578&hide_border=true&locale=es" alt="Racha de contribuciones" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanitogit&background=f8fafc&ring=007BFF&fire=007BFF&currStreakLabel=007BFF&sideNums=111c2d&sideLabels=5a6578&dates=5a6578&hide_border=true&locale=es" alt="Racha de contribuciones" width="80%" />
 </div>
 
 <br/>
@@ -105,18 +105,18 @@ Desarrollador Full-Stack con **+15 proyectos en producción**, enfocado en la in
 
 <div align="center">
   <a href="https://github.com/juanitogit/AxionReality">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=AxionReality&bg_color=f8fafc&title_color=0033FF&text_color=111c2d&icon_color=0033FF&hide_border=true&locale=es" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=AxionReality&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es" width="48%" />
   </a>
   <a href="https://github.com/juanitogit/BioSmart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=BioSmart&bg_color=f8fafc&title_color=0033FF&text_color=111c2d&icon_color=0033FF&hide_border=true&locale=es" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=BioSmart&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es" width="48%" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/juanitogit/EcoGuardian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=EcoGuardian&bg_color=f8fafc&title_color=0033FF&text_color=111c2d&icon_color=0033FF&hide_border=true&locale=es" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=EcoGuardian&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es" width="48%" />
   </a>
   <a href="https://github.com/juanitogit/VIANova">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=VIANova&bg_color=f8fafc&title_color=0033FF&text_color=111c2d&icon_color=0033FF&hide_border=true&locale=es" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=VIANova&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es" width="48%" />
   </a>
 </div>
 
@@ -124,5 +124,5 @@ Desarrollador Full-Stack con **+15 proyectos en producción**, enfocado en la in
 
 <div align="center">
   <p>Vistas totales del perfil</p>
-  <img src="https://komarev.com/ghpvc/?username=juanitogit&label=Views&color=0033FF&style=flat-square" alt="Vistas del perfil" />
+  <img src="https://komarev.com/ghpvc/?username=juanitogit&label=Views&color=007BFF&style=flat-square" alt="Vistas del perfil" />
 </div>
