@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=50&pause=1000&color=0033FF&center=true&vCenter=true&width=800&height=150&lines=Juan+Esteban+Bustos;Software+Engineer;Applied+AI+%7C+IoT+%26+Robotics" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0033FF&height=300&section=header&text=Juan%20Esteban%20Bustos&fontSize=70&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20|%20Applied%20AI%20|%20IoT%20and%20Robotics&descAlign=50&descAlignY=58&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
