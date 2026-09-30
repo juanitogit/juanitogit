@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001233,00509d,00a8e8&height=300&section=header&text=Juan%20Esteban%20Bustos&fontSize=65&fontAlignY=40&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=62&fontColor=ffffff&descSize=25&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0033cc,0088ff,00ccff&height=300&section=header&text=Juan%20Esteban%20Bustos&fontSize=65&fontAlignY=40&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=62&fontColor=ffffff&descSize=25&animation=scaleIn" width="100%" />
 </div>
 
 <br/>
@@ -46,7 +46,7 @@ Selecciono la herramienta adecuada para cada trabajo, pero mi mayor dominio se e
     <td align="center" width="25%">
       <h3>Frontend</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,threejs" />
+        <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,threejs" />
       </a>
     </td>
     <td align="center" width="25%">
