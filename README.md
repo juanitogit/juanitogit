@@ -1,54 +1,120 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0060ac&height=300&section=header&text=¡Hola!%20Soy%20Juan%20Esteban%20Bustos&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Software%20|%20Estudiante%20Ing.%20Software&descAlignY=51&descAlign=62" />
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tu-correo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="TU-URL-DEL-PORTAFOLIO" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-0060ac?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<br/>
-
-## 👨‍💻 Sobre Mí
-
-¡Hola a todos! 👋 Soy de Neiva, Huila, Colombia. Soy un apasionado por la tecnología, siempre buscando aprender, optimizar sistemas y desarrollar soluciones eficientes.
-
-- 🎓 **Estudiante de Ingeniería de Software** en la Universidad Surcolombiana.
-- 📜 **Bachiller Técnico en Desarrollo de Software** & **Técnico en Programación de Software** (SENA).
-- 🔐 Certificado en **Ciberseguridad** (Google) y **Productividad con IA**.
-- 🇬🇧 Certificado de **Inglés B+** (MCE).
-- 🎮 En mi tiempo libre me gusta jugar videojuegos, optimizar sistemas operativos y trastear con hardware.
-- ⚡ **Filosofía:** *"¡Construye cosas que marquen la diferencia!"*
-
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,py,go,nodejs,react,bootstrap,tailwind,postgres,mysql,firebase,supabase,threejs&theme=light" />
-  </a>
-</div>
-
-## 📊 Analytics y Contribuciones
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanitogit&show_icons=true&bg_color=f8fafc&title_color=0060ac&text_color=5a6578&icon_color=7b41b4&hide_border=true&locale=es" alt="Estadísticas de Juanitogit" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanitogit&background=f8fafc&ring=7b41b4&fire=7b41b4&currStreakLabel=0060ac&sideNums=111c2d&sideLabels=5a6578&dates=5a6578&hide_border=true&locale=es" alt="Racha de contribuciones" />
-</div>
-
-<div align="center">
-  <h3>🏆 Lenguajes más usados</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanitogit&layout=compact&bg_color=f8fafc&title_color=0060ac&text_color=5a6578&hide_border=true&locale=es" alt="Lenguajes" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0060ac&height=300&section=header&text=Juan%20Esteban%20Bustos&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=51&descAlign=62" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=juanitogit&label=Vistas+del+Perfil&color=0060ac&style=for-the-badge" alt="Vistas del perfil" />
+  <h3> Construyendo software escalable, optimizando arquitecturas y escribiendo código limpio. </h3>
+  <p>
+    <i>"Transformando problemas complejos en soluciones tecnológicas elegantes y eficientes."</i>
+  </p>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:tu-correo@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="TU-URL-DEL-PORTAFOLIO" target="_blank">
+      <img src="https://img.shields.io/badge/Portafolio-0060ac?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+</div>
+
+---
+
+## 👨‍💻 Perfil Ejecutivo
+
+Desarrollador de software con una sólida base en el desarrollo web moderno, arquitecturas backend y diseño de bases de datos. Gran capacidad para acortar la brecha entre los requerimientos de negocio y la implementación técnica.
+
+- 🏗️ **Enfoque Actual:** Profundizando en Arquitectura de Software, bases de datos relacionales y buenas prácticas de Clean Code.
+- 💼 **Educación:** Estudiante de Ingeniería de Software (Universidad Surcolombiana) & Técnico en Desarrollo de Software (SENA).
+- 🏆 **Certificaciones:** Ciberseguridad (Google), Productividad con IA, Inglés MCE B+.
+- 🌱 **Aprendiendo:** Sistemas distribuidos, microservicios y prácticas avanzadas de DevOps.
+- 🤝 **Colaboración:** Siempre abierto a contribuir en proyectos open-source y discusiones sobre arquitectura técnica.
+
+---
+
+## 🧰 Arsenal Tecnológico
+
+Selecciono la herramienta adecuada para cada trabajo, pero mi mayor dominio se encuentra en el siguiente ecosistema:
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>Frontend</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,threejs" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <h3>Backend</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,php,go,py" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <h3>Database</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <h3>Tools & DevOps</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux,bash" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Métricas de Desarrollo y Contribuciones
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=juanitogit&show_icons=true&bg_color=f8fafc&title_color=0060ac&text_color=111c2d&icon_color=7b41b4&hide_border=true&locale=es&count_private=true" alt="Estadísticas de Juanitogit" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanitogit&layout=compact&bg_color=f8fafc&title_color=0060ac&text_color=111c2d&hide_border=true&locale=es" alt="Lenguajes" width="100%" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanitogit&background=f8fafc&ring=7b41b4&fire=7b41b4&currStreakLabel=0060ac&sideNums=111c2d&sideLabels=5a6578&dates=5a6578&hide_border=true&locale=es" alt="Racha de contribuciones" width="80%" />
+</div>
+
+<br/>
+
+### 🐍 Actividad Reciente
+*(Una representación visual de mis contribuciones a lo largo del año. Configura un GitHub Action para generar esta animación).*
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanitogit/juanitogit/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanitogit/juanitogit/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/juanitogit/juanitogit/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [**Mi Portafolio Personal**](TU-URL-DEL-PORTAFOLIO) | Plataforma interactiva y moderna con backend propio para análisis de contribuciones de GitHub en tiempo real. | React, Node.js, PostgreSQL |
+| [**Proyecto Destacado 2**](#) | *(Agrega aquí una descripción técnica enfocada en el impacto y arquitectura de uno de tus mejores proyectos)* | Go, Supabase, Tailwind |
+| [**Automatización IA**](#) | Integración de workflows y herramientas impulsadas por inteligencia artificial para potenciar la productividad operativa. | Python, GitHub Actions |
+
+---
+
+<div align="center">
+  <p>Vistas totales del perfil</p>
+  <img src="https://komarev.com/ghpvc/?username=juanitogit&label=Views&color=0060ac&style=flat-square" alt="Vistas del perfil" />
 </div>
