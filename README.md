@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0060ac,7b41b4,0060ac&height=300&section=header&text=Juan%20Esteban%20Bustos&fontSize=65&fontAlignY=40&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=62&fontColor=ffffff&descSize=25&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001233,00509d,00a8e8&height=300&section=header&text=Juan%20Esteban%20Bustos&fontSize=65&fontAlignY=40&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=62&fontColor=ffffff&descSize=25&animation=twinkling" width="100%" />
 </div>
 
 <br/>
@@ -78,15 +78,15 @@ Selecciono la herramienta adecuada para cada trabajo, pero mi mayor dominio se e
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=juanitogit&show_icons=true&bg_color=f8fafc&title_color=7b41b4&text_color=111c2d&icon_color=0060ac&hide_border=true&locale=es&count_private=true" alt="Estadísticas de Juanitogit" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=juanitogit&show_icons=true&bg_color=f8fafc&title_color=0060ac&text_color=111c2d&icon_color=00509d&hide_border=true&locale=es&count_private=true" alt="Estadísticas de Juanitogit" width="100%" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanitogit&layout=compact&bg_color=f8fafc&title_color=7b41b4&text_color=111c2d&hide_border=true&locale=es" alt="Lenguajes" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanitogit&layout=compact&bg_color=f8fafc&title_color=0060ac&text_color=111c2d&hide_border=true&locale=es" alt="Lenguajes" width="100%" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanitogit&background=f8fafc&ring=7b41b4&fire=0060ac&currStreakLabel=7b41b4&sideNums=111c2d&sideLabels=5a6578&dates=5a6578&hide_border=true&locale=es" alt="Racha de contribuciones" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanitogit&background=f8fafc&ring=00509d&fire=00a8e8&currStreakLabel=00509d&sideNums=111c2d&sideLabels=5a6578&dates=5a6578&hide_border=true&locale=es" alt="Racha de contribuciones" width="80%" />
 </div>
 
 <br/>
@@ -95,15 +95,26 @@ Selecciono la herramienta adecuada para cada trabajo, pero mi mayor dominio se e
 
 ## Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [**Mi Portafolio Personal**](TU-URL-DEL-PORTAFOLIO) | Plataforma interactiva y moderna con backend propio para análisis de contribuciones de GitHub en tiempo real. | React, Node.js, PostgreSQL |
-| [**Proyecto Destacado 2**](#) | (Agrega aquí una descripción técnica enfocada en el impacto y arquitectura de uno de tus mejores proyectos) | Go, Supabase, Tailwind |
-| [**Automatización IA**](#) | Integración de workflows y herramientas impulsadas por inteligencia artificial para potenciar la productividad operativa. | Python, GitHub Actions |
+<div align="center">
+  <a href="https://github.com/juanitogit/AxionReality">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=AxionReality&bg_color=f8fafc&title_color=0060ac&text_color=111c2d&icon_color=00509d&hide_border=true&locale=es" width="48%" />
+  </a>
+  <a href="https://github.com/juanitogit/BioSmart">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=BioSmart&bg_color=f8fafc&title_color=0060ac&text_color=111c2d&icon_color=00509d&hide_border=true&locale=es" width="48%" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/juanitogit/EcoGuardian">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=EcoGuardian&bg_color=f8fafc&title_color=0060ac&text_color=111c2d&icon_color=00509d&hide_border=true&locale=es" width="48%" />
+  </a>
+  <a href="https://github.com/juanitogit/Portafolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=Portafolio&bg_color=f8fafc&title_color=0060ac&text_color=111c2d&icon_color=00509d&hide_border=true&locale=es" width="48%" />
+  </a>
+</div>
 
 ---
 
 <div align="center">
   <p>Vistas totales del perfil</p>
-  <img src="https://komarev.com/ghpvc/?username=juanitogit&label=Views&color=7b41b4&style=flat-square" alt="Vistas del perfil" />
+  <img src="https://komarev.com/ghpvc/?username=juanitogit&label=Views&color=0060ac&style=flat-square" alt="Vistas del perfil" />
 </div>
