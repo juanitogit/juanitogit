@@ -1,13 +1,13 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=300&section=header&text=Juan%20Esteban%20Bustos&fontSize=70&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20|%20Applied%20AI%20|%20IoT%20and%20Robotics&descAlign=50&descAlignY=58&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3> Entrego código en producción, no demos. </h3>
+  <h3> Entrego cÃ³digo en producciÃ³n, no demos. </h3>
   <p>
-    <i>"Transformando problemas complejos en soluciones tecnológicas elegantes y eficientes."</i>
+    <i>"Transformando problemas complejos en soluciones tecnolÃ³gicas elegantes y eficientes."</i>
   </p>
   
   <p align="center">
@@ -27,27 +27,27 @@
 
 ## Perfil Ejecutivo
 
-Desarrollador Full-Stack con **+15 proyectos en producción**, enfocado en la integración de arquitecturas escalables, Inteligencia Artificial y Hardware. 
+Desarrollador Full-Stack con **+15 proyectos en producciÃ³n**, enfocado en la integraciÃ³n de arquitecturas escalables, Inteligencia Artificial y Hardware. 
 
 - **Rol Actual:** Desarrollador Web Full-Stack en **Copycaess S.A.S** (PHP MVC, MySQL, Integraciones OAuth y Pasarelas de Pago).
 - **Stack Principal:** TypeScript, React, Node.js, Go y Python.
-- **Especialidad:** Integración de IA (LLMs, agentes, chatbots) y hardware (Arduino, ESP32, Sensores).
-- **Academia:** Estudiante de Ingeniería de Software (Universidad Surcolombiana) & Técnico en Desarrollo de Software (SENA).
-- **Investigación:** Autor principal de **3 artículos de investigación científica** en proceso de publicación para **IEEE** (*VIANova, BioSmart, EcoGuardian*).
+- **Especialidad:** IntegraciÃ³n de IA (LLMs, agentes, chatbots) y hardware (Arduino, ESP32, Sensores).
+- **Academia:** Estudiante de IngenierÃ­a de Software (Universidad Surcolombiana) & TÃ©cnico en Desarrollo de Software (SENA).
+- **InvestigaciÃ³n:** Autor principal de **3 artÃ­culos de investigaciÃ³n cientÃ­fica** en proceso de publicaciÃ³n para **IEEE** (*VIANova, BioSmart, EcoGuardian*).
 
 ---
 
 ## Logros y Reconocimientos Destacados
 
-- **1er Lugar** — 2da Competencia Regional de Robótica (2025). Programación de robot autónomo con control PWM (ESP32).
-- **3er Lugar** — Hackathon Universitario Regional (2025). Compitiendo contra equipos de años superiores en primer semestre.
-- **Conferencista** — 2do Encuentro de Jóvenes e Inteligencia Artificial (2025).
-- **Expositor** — Feria InnovaSoft, Universidad Surcolombiana (2026).
-- **Certificaciones:** Foundations of Cybersecurity (Google), Maximize Productivity With AI Tools (Google), Inglés B1/B2.
+- **1er Lugar** â€” 2da Competencia Regional de RobÃ³tica (2025). ProgramaciÃ³n de robot autÃ³nomo con control PWM (ESP32).
+- **3er Lugar** â€” Hackathon Universitario Regional (2025). Compitiendo contra equipos de aÃ±os superiores en primer semestre.
+- **Conferencista** â€” 2do Encuentro de JÃ³venes e Inteligencia Artificial (2025).
+- **Expositor** â€” Feria InnovaSoft, Universidad Surcolombiana (2026).
+- **Certificaciones:** Foundations of Cybersecurity (Google), Maximize Productivity With AI Tools (Google), InglÃ©s B1/B2.
 
 ---
 
-## Arsenal Tecnológico
+## Arsenal TecnolÃ³gico
 
 <table>
   <tr>
@@ -80,13 +80,13 @@ Desarrollador Full-Stack con **+15 proyectos en producción**, enfocado en la in
 
 ---
 
-## Métricas de Desarrollo y Contribuciones
+## MÃ©tricas de Desarrollo y Contribuciones
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=juanitogit&show_icons=true&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&count_private=true" alt="Estadísticas de Juanitogit" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=juanitogit&show_icons=true&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&count_private=true" alt="EstadÃ­sticas de Juanitogit" width="100%" />
       </td>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanitogit&layout=compact&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&hide_border=true&locale=es" alt="Lenguajes" width="100%" />
@@ -94,14 +94,14 @@ Desarrollador Full-Stack con **+15 proyectos en producción**, enfocado en la in
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanitogit&background=f8fafc&ring=007BFF&fire=007BFF&currStreakLabel=007BFF&sideNums=111c2d&sideLabels=5a6578&dates=5a6578&hide_border=true&locale=es" alt="Racha de contribuciones" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanitogit&v=2&background=f8fafc&ring=007BFF&fire=007BFF&currStreakLabel=007BFF&sideNums=111c2d&sideLabels=5a6578&dates=5a6578&hide_border=true&locale=es" alt="Racha de contribuciones" width="80%" />
 </div>
 
 <br/>
 
 ---
 
-## Proyectos Destacados (Investigación & Desarrollo)
+## Proyectos Destacados (InvestigaciÃ³n & Desarrollo)
 
 <div align="center">
   <a href="https://github.com/juanitogit/AxionReality">
@@ -126,3 +126,4 @@ Desarrollador Full-Stack con **+15 proyectos en producción**, enfocado en la in
   <p>Vistas totales del perfil</p>
   <img src="https://komarev.com/ghpvc/?username=juanitogit&label=Views&color=007BFF&style=flat-square" alt="Vistas del perfil" />
 </div>
+
