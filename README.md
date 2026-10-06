@@ -54,25 +54,41 @@ Desarrollador Full-Stack con **+15 proyectos en producción**, enfocado en la in
     <td align="center" width="25%">
       <h3>Frontend & UI</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,threejs" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,threejs&theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,threejs&theme=light" />
+          <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,threejs" />
+        </picture>
       </a>
     </td>
     <td align="center" width="25%">
       <h3>Backend & API</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,php,go,py" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,php,go,py&theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,php,go,py&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nodejs,php,go,py" />
+        </picture>
       </a>
     </td>
     <td align="center" width="25%">
       <h3>Database</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,sqlite" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,sqlite&theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,sqlite&theme=light" />
+          <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,sqlite" />
+        </picture>
       </a>
     </td>
     <td align="center" width="25%">
       <h3>Tools & Hardware</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,linux,arduino" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,linux,arduino&theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,linux,arduino&theme=light" />
+          <img src="https://skillicons.dev/icons?i=git,github,linux,arduino" />
+        </picture>
       </a>
     </td>
   </tr>
@@ -86,15 +102,27 @@ Desarrollador Full-Stack con **+15 proyectos en producción**, enfocado en la in
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=juanitogit&show_icons=true&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&count_private=true&cache_seconds=1800" alt="Estadísticas de Juanitogit" width="100%" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=juanitogit&show_icons=true&bg_color=0d1117&title_color=007BFF&text_color=c9d1d9&icon_color=007BFF&hide_border=true&locale=es&count_private=true&cache_seconds=1800" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=juanitogit&show_icons=true&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&count_private=true&cache_seconds=1800" />
+          <img src="https://github-readme-stats.vercel.app/api?username=juanitogit&show_icons=true&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&count_private=true&cache_seconds=1800" alt="Estadísticas de Juanitogit" width="100%" />
+        </picture>
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanitogit&layout=compact&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&hide_border=true&locale=es&cache_seconds=1800" alt="Lenguajes" width="100%" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juanitogit&layout=compact&bg_color=0d1117&title_color=007BFF&text_color=c9d1d9&hide_border=true&locale=es&cache_seconds=1800" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juanitogit&layout=compact&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&hide_border=true&locale=es&cache_seconds=1800" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanitogit&layout=compact&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&hide_border=true&locale=es&cache_seconds=1800" alt="Lenguajes" width="100%" />
+        </picture>
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanitogit&background=f8fafc&ring=007BFF&fire=007BFF&currStreakLabel=007BFF&sideNums=111c2d&sideLabels=5a6578&dates=5a6578&hide_border=true&locale=es&cache_seconds=1800&v=3" alt="Racha de contribuciones" width="80%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=juanitogit&background=0d1117&ring=007BFF&fire=007BFF&currStreakLabel=007BFF&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&hide_border=true&locale=es&cache_seconds=1800&v=4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=juanitogit&background=f8fafc&ring=007BFF&fire=007BFF&currStreakLabel=007BFF&sideNums=111c2d&sideLabels=5a6578&dates=5a6578&hide_border=true&locale=es&cache_seconds=1800&v=4" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanitogit&background=f8fafc&ring=007BFF&fire=007BFF&currStreakLabel=007BFF&sideNums=111c2d&sideLabels=5a6578&dates=5a6578&hide_border=true&locale=es&cache_seconds=1800&v=4" alt="Racha de contribuciones" width="80%" />
+  </picture>
 </div>
 
 <br/>
@@ -105,18 +133,34 @@ Desarrollador Full-Stack con **+15 proyectos en producción**, enfocado en la in
 
 <div align="center">
   <a href="https://github.com/juanitogit/AxionReality">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=AxionReality&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&cache_seconds=1800" width="48%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=AxionReality&bg_color=0d1117&title_color=007BFF&text_color=c9d1d9&icon_color=007BFF&hide_border=true&locale=es&cache_seconds=1800" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=AxionReality&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&cache_seconds=1800" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=AxionReality&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&cache_seconds=1800" width="48%" />
+    </picture>
   </a>
   <a href="https://github.com/juanitogit/BioSmart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=BioSmart&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&cache_seconds=1800" width="48%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=BioSmart&bg_color=0d1117&title_color=007BFF&text_color=c9d1d9&icon_color=007BFF&hide_border=true&locale=es&cache_seconds=1800" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=BioSmart&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&cache_seconds=1800" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=BioSmart&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&cache_seconds=1800" width="48%" />
+    </picture>
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/juanitogit/EcoGuardian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=EcoGuardian&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&cache_seconds=1800" width="48%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=EcoGuardian&bg_color=0d1117&title_color=007BFF&text_color=c9d1d9&icon_color=007BFF&hide_border=true&locale=es&cache_seconds=1800" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=EcoGuardian&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&cache_seconds=1800" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=EcoGuardian&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&cache_seconds=1800" width="48%" />
+    </picture>
   </a>
   <a href="https://github.com/juanitogit/VIANova">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=VIANova&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&cache_seconds=1800" width="48%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=VIANova&bg_color=0d1117&title_color=007BFF&text_color=c9d1d9&icon_color=007BFF&hide_border=true&locale=es&cache_seconds=1800" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=VIANova&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&cache_seconds=1800" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanitogit&repo=VIANova&bg_color=f8fafc&title_color=007BFF&text_color=111c2d&icon_color=007BFF&hide_border=true&locale=es&cache_seconds=1800" width="48%" />
+    </picture>
   </a>
 </div>
 
