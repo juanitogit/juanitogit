@@ -1,9 +1,9 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ 
+﻿<!-- ╔══════════════════════════════════════════════════════════════╗ 
      ║ HEADER adaptable a tema claro / oscuro                       ║ 
      ╚══════════════════════════════════════════════════════════════╝ --> 
 <picture> 
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:007BFF,100:00d4ff&height=280&section=header&text=Juan%20Esteban%20Bustos&fontSize=64&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20IoT%20%26%20Robotics&descAlignY=62&descSize=20"> 
-  <img alt="Juan Esteban Bustos" src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:007BFF,100:0ea5e9&height=280&section=header&text=Juan%20Esteban%20Bustos&fontSize=64&fontColor=0f172a&animation=twinkling&desc=Software%20Engineer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20IoT%20%26%20Robotics&descAlignY=62&descSize=20"> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,007BFF,00d4ff&height=280&section=header&text=Juan%20Esteban%20Bustos&fontSize=64&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20IoT%20and%20Robotics&descAlignY=62&descSize=20"> 
+  <img alt="Juan Esteban Bustos" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=e0f2fe,007BFF,0ea5e9&height=280&section=header&text=Juan%20Esteban%20Bustos&fontSize=64&fontColor=0f172a&animation=twinkling&desc=Software%20Engineer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20IoT%20and%20Robotics&descAlignY=62&descSize=20"> 
 </picture> 
 
 <div align="center"> 
@@ -12,16 +12,16 @@
   </a> 
   <br/><br/> 
   <!-- NAVEGACIÓN --> 
-  [![Perfil](https://img.shields.io/badge/🧭_Perfil-007BFF?style=for-the-badge)](#-perfil-ejecutivo) 
-  [![Proyectos](https://img.shields.io/badge/🚀_Proyectos-0f172a?style=for-the-badge)](#-proyectos-destacados) 
-  [![Research](https://img.shields.io/badge/📄_Research-007BFF?style=for-the-badge)](#-investigación) 
-  [![Hardware](https://img.shields.io/badge/🔌_Hardware-0f172a?style=for-the-badge)](#-laboratorio-iot) 
-  [![Métricas](https://img.shields.io/badge/📊_Métricas-007BFF?style=for-the-badge)](#-métricas-en-vivo) 
-  [![Contacto](https://img.shields.io/badge/📬_Contacto-0f172a?style=for-the-badge)](#-contacto) 
+  <a href="#-perfil-ejecutivo"><img src="https://img.shields.io/badge/🧭_Perfil-007BFF?style=for-the-badge" alt="Perfil" /></a>
+  <a href="#-proyectos-destacados"><img src="https://img.shields.io/badge/🚀_Proyectos-0f172a?style=for-the-badge" alt="Proyectos" /></a>
+  <a href="#-investigación"><img src="https://img.shields.io/badge/📄_Research-007BFF?style=for-the-badge" alt="Research" /></a>
+  <a href="#-laboratorio-iot"><img src="https://img.shields.io/badge/🔌_Hardware-0f172a?style=for-the-badge" alt="Hardware" /></a>
+  <a href="#-métricas-en-vivo"><img src="https://img.shields.io/badge/📊_Métricas-007BFF?style=for-the-badge" alt="Métricas" /></a>
+  <a href="#-contacto"><img src="https://img.shields.io/badge/📬_Contacto-0f172a?style=for-the-badge" alt="Contacto" /></a>
 </div> 
 <br/> 
 
-```bash 
+`ash 
 juan@production:~$ whoami
 nombre: Juan Esteban Bustos 
 rol_actual: Full-Stack Developer @ Copycaess S.A.S 
@@ -31,7 +31,7 @@ hardware: [ESP32, Arduino, sensores ambientales, control PWM]
 ia: [LLMs, agentes autónomos, RAG, chatbots en producción] 
 estado: "construyendo cosas que no se caen a las 3 a.m." 
 ubicacion: Colombia 🇨🇴 (UTC-5)
-```
+`
 
 ## 🧭 Perfil Ejecutivo
 Desarrollador Full-Stack con +15 proyectos en producción, enfocado en el punto donde se cruzan tres mundos que casi nadie domina a la vez: arquitecturas web escalables, Inteligencia Artificial aplicada y hardware embebido.
@@ -84,7 +84,7 @@ Foundations of Cybersecurity (Google) · Maximize Productivity With AI Tools (Go
 | EcoGuardian | Sensórica ambiental · alertas inteligentes | En proceso de postulación (IEEE) |
 
 ## 🔌 Laboratorio IoT
-```text
+`	ext
 ┌─────────────┐   MQTT / WebSocket  ┌──────────────┐   REST / gRPC  ┌─────────────┐
 │    ESP32    │ ───────────────────────▶ │  Node.js /   │ ────────────────────▶ │   React +   │
 │ + sensores  │ ◀─────────────────────── │  Go backend  │ ◀──────────────────── │  Three.js   │
@@ -93,7 +93,7 @@ Foundations of Cybersecurity (Google) · Maximize Productivity With AI Tools (Go
                                     ┌──────▼───────┐
                                     │  LLM Agent   │ ← decide · resume · alerta
                                     └──────────────┘
-```
+`
 
 ## 📊 Métricas en vivo
 *(Aquí se cargarán automáticamente tus estadísticas 3D de contribuciones una vez ejecutes los workflows de GitHub Actions)*
