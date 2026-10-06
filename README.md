@@ -1,4 +1,4 @@
-﻿<!-- ╔══════════════════════════════════════════════════════════════╗ 
+<!-- ╔══════════════════════════════════════════════════════════════╗ 
      ║ HEADER adaptable a tema claro / oscuro                       ║ 
      ╚══════════════════════════════════════════════════════════════╝ --> 
 <picture> 
@@ -21,7 +21,7 @@
 </div> 
 <br/> 
 
-`ash 
+```bash 
 juan@production:~$ whoami
 nombre: Juan Esteban Bustos 
 rol_actual: Full-Stack Developer @ Copycaess S.A.S 
@@ -31,7 +31,7 @@ hardware: [ESP32, Arduino, sensores ambientales, control PWM]
 ia: [LLMs, agentes autónomos, RAG, chatbots en producción] 
 estado: "construyendo cosas que no se caen a las 3 a.m." 
 ubicacion: Colombia 🇨🇴 (UTC-5)
-`
+```
 
 ## 🧭 Perfil Ejecutivo
 Desarrollador Full-Stack con +15 proyectos en producción, enfocado en el punto donde se cruzan tres mundos que casi nadie domina a la vez: arquitecturas web escalables, Inteligencia Artificial aplicada y hardware embebido.
@@ -84,7 +84,7 @@ Foundations of Cybersecurity (Google) · Maximize Productivity With AI Tools (Go
 | EcoGuardian | Sensórica ambiental · alertas inteligentes | En proceso de postulación (IEEE) |
 
 ## 🔌 Laboratorio IoT
-`	ext
+```text
 ┌─────────────┐   MQTT / WebSocket  ┌──────────────┐   REST / gRPC  ┌─────────────┐
 │    ESP32    │ ───────────────────────▶ │  Node.js /   │ ────────────────────▶ │   React +   │
 │ + sensores  │ ◀─────────────────────── │  Go backend  │ ◀──────────────────── │  Three.js   │
@@ -93,7 +93,7 @@ Foundations of Cybersecurity (Google) · Maximize Productivity With AI Tools (Go
                                     ┌──────▼───────┐
                                     │  LLM Agent   │ ← decide · resume · alerta
                                     └──────────────┘
-`
+```
 
 ## 📊 Métricas en vivo
 *(Aquí se cargarán automáticamente tus estadísticas 3D de contribuciones una vez ejecutes los workflows de GitHub Actions)*
